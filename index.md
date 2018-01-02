@@ -2,4 +2,4 @@
 
 Aujourd'hui il fait beau !
 
-(Whitecloak_sun.svg)
+![](Whitecloak_sun.svg)
